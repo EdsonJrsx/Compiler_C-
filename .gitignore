@@ -1,0 +1,5 @@
+*.o
+parser.tab.*
+lex.yy.c
+exec
+exec.bin

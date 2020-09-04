@@ -1,0 +1,6 @@
+void main(void){
+	int i;
+	int a;
+	a = 2;
+	i = (2+a)-a;
+}
